@@ -1,0 +1,1745 @@
+[
+  {
+    "id": "alcantara",
+    "general_info": {
+      "name": "Alcântara",
+      "address": "Rua das Fontainhas, 13-45",
+      "coordinates": "38.706007,-9.175066",
+      "schedule": {
+        "working_days": "00:00-24:00",
+        "weekends": "00:00-24:00"
+      },
+      "typology": "Surface",
+      "parkingPlaces": 202,
+      "chargingPlaces": 0,
+      "disabledPlaces": 4
+    },
+    "fees": [
+      {
+        "minimum": "0.50€"
+      },
+      {
+        "1 hour": "1.20€"
+      },
+      {
+        "2 hours": "2.40€"
+      },
+      {
+        "3 hours": "3.60€"
+      },
+      {
+        "4 hours": "4.80€"
+      },
+      {
+        "daily maximum": "10.00€"
+      }
+    ],
+    "monthly_subscriptions": [
+      {
+        "Daytime (08:00 to 20:00)": "80€"
+      },
+      {
+        "24H": "100€"
+      },
+      {
+        "24-hour residents": "35€"
+      },
+      {
+        "Alcântara Card": "30€"
+      },
+      {
+        "24-hour traders": "80€"
+      },
+      {
+        "Day traders (08:00 to 20:00)": "50€"
+      }
+    ]
+  },
+  {
+    "id": "aldeia-de-telheiras",
+    "general_info": {
+      "name": "Aldeia de Telheiras",
+      "address": "Rua Professor Francisco Gentil, 19",
+      "coordinates": "38.760574,-9.166878",
+      "schedule": {
+        "working_days": "00:00-24:00",
+        "weekends": "00:00-24:00"
+      },
+      "typology": "Structure",
+      "parkingPlaces": 56,
+      "chargingPlaces": 0,
+      "disabledPlaces": 2
+    },
+    "fees": [],
+    "monthly_subscriptions": [
+      {
+        "24H": "80€"
+      },
+      {
+        "24-hour residents": "35€"
+      },
+      {
+        "Motorcycles 24h": "20€"
+      },
+      {
+        "Classic cars": "50€"
+      }
+    ]
+  },
+  {
+    "id": "alto-dos-moinhos",
+    "general_info": {
+      "name": "Alto dos Moinhos",
+      "address": "Rua João Chagas, 3",
+      "coordinates": "38.747840,-9.177575",
+      "schedule": {
+        "working_days": "00:00-24:00",
+        "weekends": "00:00-24:00"
+      },
+      "typology": "Structure",
+      "parkingPlaces": 279,
+      "chargingPlaces": 0,
+      "disabledPlaces": 4
+    },
+    "fees": [
+      {
+        "up to 15 minutes": "0.40€"
+      },
+      {
+        "30 minutes": "0.60€"
+      },
+      {
+        "1 hour": "1.00€"
+      },
+      {
+        "2 hours": "2.00€"
+      },
+      {
+        "3 hours": "3.00€"
+      },
+      {
+        "4 hours": "4.00€"
+      },
+      {
+        "daily maximum": "10.00€"
+      }
+    ],
+    "monthly_subscriptions": [
+      {
+        "Public": [
+          {
+            "24H": "120€"
+          },
+          {
+            "Daytime (8am to 8pm)": "75€"
+          }
+        ]
+      },
+      {
+        "24H": "120€"
+      },
+      {
+        "Daytime (8am to 8pm)": "75€"
+      },
+      {
+        "Merchant": [
+          {
+            "24H": "100€"
+          },
+          {
+            "Daytime (8am to 8pm)": "62,5€"
+          }
+        ]
+      },
+      {
+        "24H": "100€"
+      },
+      {
+        "Daytime (8am to 8pm)": "62.5€"
+      },
+      {
+        "Residents": [
+          {
+            "24H (with return of resident badge)": "35€"
+          },
+          {
+            "24H": "80€"
+          },
+          {
+            "Motorcycles 24H": "20€"
+          }
+        ]
+      },
+      {
+        "24H (with return of resident badge)": "35€"
+      },
+      {
+        "24H": "80€"
+      },
+      {
+        "Motorcycles 24H": "20€"
+      }
+    ]
+  },
+  {
+    "id": "ameixoeira",
+    "general_info": {
+      "name": "Ameixoeira",
+      "address": "Azinhaga da Cidade",
+      "coordinates": "38.779591,-9.158056",
+      "schedule": {
+        "working_days": "00:00-24:00",
+        "weekends": "00:00-24:00"
+      },
+      "typology": "Surface",
+      "parkingPlaces": 501,
+      "chargingPlaces": 12,
+      "disabledPlaces": 4
+    },
+    "fees": [
+      {
+        "minimum": "0.35€"
+      },
+      {
+        "1 hour": "0.50€"
+      },
+      {
+        "2 hours": "1.00€"
+      },
+      {
+        "3 hours": "1.50€"
+      },
+      {
+        "4 hours": "2.00€"
+      },
+      {
+        "daily maximum": "2.00€"
+      }
+    ],
+    "monthly_subscriptions": [
+      {
+        "24H": "45€"
+      },
+      {
+        "24h w/Pass": "10€"
+      },
+      {
+        "24-hour residents": "35€"
+      }
+    ]
+  },
+  {
+    "id": "ana-de-castro-osorio-exclusivo-assinaturas-mensais",
+    "general_info": {
+      "name": "Ana de Castro Osório",
+      "address": "Rua Ana de Castro Osório, Carnide",
+      "coordinates": "38.756631,-9.186501",
+      "schedule": {
+        "working_days": "00:00-24:00",
+        "weekends": "00:00-24:00"
+      },
+      "typology": "Structure",
+      "parkingPlaces": 79,
+      "chargingPlaces": 10,
+      "disabledPlaces": 0
+    },
+    "fees": [],
+    "monthly_subscriptions": [
+      {
+        "Monthly subscription": [
+          {
+            "Monthly subscription": "101,75€"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "areeiro",
+    "general_info": {
+      "name": "Areeiro",
+      "address": "Av.ª Almirante Gago Coutinho",
+      "coordinates": "38.744081,-9.132344",
+      "schedule": {
+        "working_days": "07:00-24:00",
+        "weekends": null
+      },
+      "typology": "Surface",
+      "parkingPlaces": 180,
+      "chargingPlaces": 12,
+      "disabledPlaces": 4
+    },
+    "fees": [
+      {
+        "up to 15 minutes": "0.40€"
+      },
+      {
+        "1 hour": "1.20€"
+      },
+      {
+        "2 hours": "2.20€"
+      },
+      {
+        "3 hours": "3.40€"
+      },
+      {
+        "4 hours": "4.45€"
+      },
+      {
+        "daily maximum": "5.30€"
+      }
+    ],
+    "monthly_subscriptions": [
+      {
+        "Public": "50.00€"
+      },
+      {
+        "Park&Ride": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "avenida-lusiada",
+    "general_info": {
+      "name": "Avenida Lusíada",
+      "address": "Between Largo da Revista Militar and Rua Galileu Galilei",
+      "coordinates": "38.752140,-9.188309",
+      "schedule": {
+        "working_days": "08:00-02:00",
+        "weekends": "08:00-02:00"
+      },
+      "typology": "Surface",
+      "parkingPlaces": 92,
+      "chargingPlaces": 10,
+      "disabledPlaces": 3
+    },
+    "fees": [
+      {
+        "up to 15 minutes": "0.40€"
+      },
+      {
+        "1 hour": "1.25€"
+      },
+      {
+        "2 hours": "2.45€"
+      },
+      {
+        "3 hours": "3.75€"
+      },
+      {
+        "4 hours": "5.20€"
+      },
+      {
+        "daily maximum": "24.80€"
+      }
+    ],
+    "monthly_subscriptions": []
+  },
+  {
+    "id": "belem",
+    "general_info": {
+      "name": "Belém",
+      "address": "Rua de Belém",
+      "coordinates": "38.697230,-9.203909",
+      "schedule": {
+        "working_days": "08:00-02:00",
+        "weekends": "08:00-02:00"
+      },
+      "typology": "Surface",
+      "parkingPlaces": 76,
+      "chargingPlaces": 10,
+      "disabledPlaces": 3
+    },
+    "fees": [
+      {
+        "up to 15 minutes": "0.50€"
+      },
+      {
+        "1 hour": "1.00€"
+      },
+      {
+        "2 hours": "2.00€"
+      },
+      {
+        "3 hours": "3.80€"
+      },
+      {
+        "4 hours": "5.60€"
+      },
+      {
+        "daily maximum": "30.80€"
+      }
+    ],
+    "monthly_subscriptions": []
+  },
+  {
+    "id": "avenida-de-padua",
+    "general_info": {
+      "name": "Avenida de Pádua",
+      "address": "Av. De Pádua",
+      "coordinates": "38.762998,-9.107515",
+      "schedule": {
+        "working_days": "00:00-24:00",
+        "weekends": "00:00-24:00"
+      },
+      "typology": "Surface",
+      "parkingPlaces": 248,
+      "chargingPlaces": 0,
+      "disabledPlaces": 3
+    },
+    "fees": [
+      {
+        "up to 2 hours": "0.00€"
+      },
+      {
+        "2:01 hours": "1.60€"
+      },
+      {
+        "3 hours": "2.40€"
+      },
+      {
+        "4 hours": "3.20€"
+      },
+      {
+        "5 hours": "4.00€"
+      },
+      {
+        "daily maximum": "10.00€"
+      }
+    ],
+    "monthly_subscriptions": []
+  },
+  {
+    "id": "calcada-do-combro",
+    "general_info": {
+      "name": "Calçada do Combro",
+      "address": "Between Calçada do Combro, 93 and Travessa André Valente, 7",
+      "coordinates": "38.711188,-9.147541",
+      "schedule": {
+        "working_days": "00:00-24:00",
+        "weekends": "00:00-24:00"
+      },
+      "typology": "Structure",
+      "parkingPlaces": 240,
+      "chargingPlaces": 6,
+      "disabledPlaces": 4
+    },
+    "fees": [
+      {
+        "up to 15 minutes": "0.50€"
+      },
+      {
+        "1 hour": "1.45€"
+      },
+      {
+        "2 hours": "2.90€"
+      },
+      {
+        "3 hours": "4.70€"
+      },
+      {
+        "4 hours": "6.65€"
+      },
+      {
+        "daily maximum": "13.05€"
+      }
+    ],
+    "monthly_subscriptions": [
+      {
+        "24H": "166.90€"
+      },
+      {
+        "Daytime (08h00 to 20h00)": "104.30€"
+      },
+      {
+        "Night (20h00 to 08h00)": "62.60€"
+      },
+      {
+        "24-hour residents": "78.20€"
+      },
+      {
+        "Residents Daytime": "52.15€"
+      },
+      {
+        "Night Residents": "31.30€"
+      },
+      {
+        "24-hour traders": "93.90€"
+      },
+      {
+        "Day traders": "62.60€"
+      },
+      {
+        "Night traders": "41.75€"
+      }
+    ]
+  },
+  {
+    "id": "campo-das-cebolas",
+    "general_info": {
+      "name": "Campo das Cebolas",
+      "address": "Rua da Alfândega",
+      "coordinates": "38.708466,-9.131870",
+      "schedule": {
+        "working_days": "00:00-24:00",
+        "weekends": "00:00-24:00"
+      },
+      "typology": "Structure",
+      "parkingPlaces": 205,
+      "chargingPlaces": 10,
+      "disabledPlaces": 4
+    },
+    "fees": [
+      {
+        "minimum": "0.50€"
+      },
+      {
+        "1 hour": "1.50€"
+      },
+      {
+        "2 hours": "3.00€"
+      },
+      {
+        "3 hours": "4.50€"
+      },
+      {
+        "4 hours": "6.00€"
+      },
+      {
+        "daily maximum": "25.00€"
+      }
+    ],
+    "monthly_subscriptions": [
+      {
+        "24-hour public": "180€"
+      },
+      {
+        "24 Hour Residents": "50€"
+      },
+      {
+        "24 Hour Traders": "120€"
+      },
+      {
+        "Motorcycles 24 Hours": "20€"
+      },
+      {
+        "Public Daytime": "110€"
+      }
+    ]
+  },
+  {
+    "id": "correia-teles-campo-de-ourique",
+    "general_info": {
+      "name": "Correia Teles",
+      "address": "Rua Correia Teles, 103",
+      "coordinates": "38.719168,-9.170647",
+      "schedule": {
+        "working_days": "00:00-24:00",
+        "weekends": "00:00-24:00"
+      },
+      "typology": "Structure",
+      "parkingPlaces": 245,
+      "chargingPlaces": 6,
+      "disabledPlaces": 4
+    },
+    "fees": [
+      {
+        "minimum": "0.25€"
+      },
+      {
+        "1 hour": "0.80€"
+      },
+      {
+        "2 hours": "1.60€"
+      },
+      {
+        "3 hours": "2.40€"
+      },
+      {
+        "4 hours": "3.20€"
+      },
+      {
+        "daily maximum": "10.00€"
+      }
+    ],
+    "monthly_subscriptions": [
+      {
+        "24-hour residents": "35.00€"
+      },
+      {
+        "24-hour traders": "60.00€"
+      },
+      {
+        "24-hour public": "120.00€"
+      },
+      {
+        "Public Daytime": "80.00€"
+      },
+      {
+        "Motorcycles": "20.00€"
+      },
+      {
+        "Add VIP subscriptions": "20.00€"
+      }
+    ]
+  },
+  {
+    "id": "campo-grande",
+    "general_info": {
+      "name": "Campo Grande",
+      "address": "Campo Grande in front of Caleidoscópio",
+      "coordinates": "38.757586,-9.155495",
+      "schedule": {
+        "working_days": "07:00-24:00",
+        "weekends": null
+      },
+      "typology": "Surface",
+      "parkingPlaces": 196,
+      "chargingPlaces": 12,
+      "disabledPlaces": 3
+    },
+    "fees": [
+      {
+        "up to 15 minutes": "0.35€"
+      },
+      {
+        "1 hour": "1.10€"
+      },
+      {
+        "2 hours": "2.00€"
+      },
+      {
+        "3 hours": "2.35€"
+      },
+      {
+        "4 hours": "2.60€"
+      },
+      {
+        "daily maximum": "2.60€"
+      }
+    ],
+    "monthly_subscriptions": [
+      {
+        "24H": "41.75€"
+      },
+      {
+        "24h w/Pass": "26.05€"
+      },
+      {
+        "Park&Ride": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "casal-vistoso",
+    "general_info": {
+      "name": "Casal Vistoso",
+      "address": "Rua João da Silva",
+      "coordinates": "38.742375,-9.128965",
+      "schedule": {
+        "working_days": "08:00-22:00",
+        "weekends": null
+      },
+      "typology": "Structure",
+      "parkingPlaces": 256,
+      "chargingPlaces": 0,
+      "disabledPlaces": 4
+    },
+    "fees": [
+      {
+        "up to 15 minutes": "0.40€"
+      },
+      {
+        "1 hour": "1.20€"
+      },
+      {
+        "2 hours": "2.20€"
+      },
+      {
+        "3 hours": "3.40€"
+      },
+      {
+        "4 hours": "4.45€"
+      },
+      {
+        "daily maximum": "5.30€"
+      }
+    ],
+    "monthly_subscriptions": [
+      {
+        "24 Hours": "80€"
+      },
+      {
+        "Daytime (08h00 to 20h00)": "60€"
+      },
+      {
+        "Night (20h00 to 08h00)": "60€"
+      },
+      {
+        "VIP 24 Hour Residents": "70€"
+      },
+      {
+        "24 Hour Residents": "50€"
+      },
+      {
+        "Residents Daytime": "50€"
+      },
+      {
+        "Night Residents": "40€"
+      },
+      {
+        "24 Hour Motorcycles": "20€"
+      },
+      {
+        "24-hour residents without a badge": "35€"
+      }
+    ]
+  },
+  {
+    "id": "chao-do-loureiro",
+    "general_info": {
+      "name": "Chão do Loureiro",
+      "address": "Between Largo da Atafona and Calçada Marquês de Tancos",
+      "coordinates": "38.712416,-9.135017",
+      "schedule": {
+        "working_days": "00:00-24:00",
+        "weekends": "00:00-24:00"
+      },
+      "typology": "Structure",
+      "parkingPlaces": 192,
+      "chargingPlaces": 8,
+      "disabledPlaces": 10
+    },
+    "fees": [
+      {
+        "up to 15 minutes": "0.50€"
+      },
+      {
+        "1 hour": "1.45€"
+      },
+      {
+        "2 hours": "2.95€"
+      },
+      {
+        "3 hours": "4.80€"
+      },
+      {
+        "4 hours": "6.80€"
+      },
+      {
+        "daily maximum": "20.00€"
+      }
+    ],
+    "monthly_subscriptions": [
+      {
+        "24H": "175€"
+      },
+      {
+        "Daytime (08h00 to 20h00)": "105€"
+      },
+      {
+        "Night (20h00 to 08h00)": "70€"
+      },
+      {
+        "24-hour residents": "80€"
+      },
+      {
+        "Residents Daytime": "60€"
+      },
+      {
+        "Night Residents": "40€"
+      },
+      {
+        "24-hour traders": "105€"
+      },
+      {
+        "Day traders": "80€"
+      },
+      {
+        "Night traders": "50€"
+      },
+      {
+        "24H motorcycles": "20€"
+      }
+    ]
+  },
+  {
+    "id": "colegio-militar",
+    "general_info": {
+      "name": "Colégio Militar",
+      "address": "Pç. Cosme Damião, in front of Estádio da Luz",
+      "coordinates": "38.752172,-9.188327",
+      "schedule": {
+        "working_days": "08:00-02:00",
+        "weekends": "08:00-02:00"
+      },
+      "typology": "Surface",
+      "parkingPlaces": 415,
+      "chargingPlaces": 0,
+      "disabledPlaces": 9
+    },
+    "fees": [
+      {
+        "up to 15 minutes": "0.35€"
+      },
+      {
+        "1 hour": "1.10€"
+      },
+      {
+        "2 hours": "2.00€"
+      },
+      {
+        "3 hours": "2.35€"
+      },
+      {
+        "4 hours": "2.60€"
+      },
+      {
+        "daily maximum": "2.60€"
+      }
+    ],
+    "monthly_subscriptions": [
+      {
+        "24H": "41.75€"
+      },
+      {
+        "24h w/Pass": "26.05€"
+      },
+      {
+        "Park&Ride": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "combatentes",
+    "general_info": {
+      "name": "Combatentes",
+      "address": "Av. Forças Armadas",
+      "coordinates": "38.745735,-9.162904",
+      "schedule": {
+        "working_days": "07:00-24:00",
+        "weekends": null
+      },
+      "typology": "Surface",
+      "parkingPlaces": 155,
+      "chargingPlaces": 12,
+      "disabledPlaces": 4
+    },
+    "fees": [
+      {
+        "up to 15 minutes": "0.40€"
+      },
+      {
+        "1 hour": "1.20€"
+      },
+      {
+        "2 hours": "2.20€"
+      },
+      {
+        "3 hours": "3.40€"
+      },
+      {
+        "4 hours": "4.45€"
+      },
+      {
+        "daily maximum": "5.30€"
+      }
+    ],
+    "monthly_subscriptions": [
+      {
+        "24h": "50.00€"
+      }
+    ]
+  },
+  {
+    "id": "condominio-graca",
+    "general_info": {
+      "name": "Condomínio Graça",
+      "address": "Rua Natália Correia, 6-8",
+      "coordinates": "38.720812,-9.129209",
+      "schedule": {
+        "working_days": "00:00-24:00",
+        "weekends": "00:00-24:00"
+      },
+      "typology": "Structure",
+      "parkingPlaces": 30,
+      "chargingPlaces": 0,
+      "disabledPlaces": 0
+    },
+    "fees": [],
+    "monthly_subscriptions": [
+      {
+        "24-hour residents": "35.00€"
+      },
+      {
+        "24-hour traders": "35.00€"
+      }
+    ]
+  },
+  {
+    "id": "cosme-damiao",
+    "general_info": {
+      "name": "Cosme Damião",
+      "address": "Av.ª Machado dos Santos",
+      "coordinates": "38.753576,-9.182175",
+      "schedule": {
+        "working_days": "00:00-24:00",
+        "weekends": "00:00-24:00"
+      },
+      "typology": "Structure",
+      "parkingPlaces": 287,
+      "chargingPlaces": 6,
+      "disabledPlaces": 4
+    },
+    "fees": [
+      {
+        "up to 15 minutes": "0.20€"
+      },
+      {
+        "30 mins": "0.40€"
+      },
+      {
+        "1 h": "0.80€"
+      },
+      {
+        "2 h": "1.60€"
+      },
+      {
+        "3 h": "2.40€"
+      },
+      {
+        "4 h": "3.20€"
+      },
+      {
+        "loss of ticket": "10.00€"
+      }
+    ],
+    "monthly_subscriptions": [
+      {
+        "24H VIP audience": "95.00€"
+      },
+      {
+        "24-hour public": "80.00€"
+      },
+      {
+        "24H VIP Residents": "50.00€"
+      },
+      {
+        "Residents 24H": "35.00€"
+      },
+      {
+        "24h VIP traders": "85.00€"
+      },
+      {
+        "24-hour traders": "70.00€"
+      },
+      {
+        "Motorcycles": "20.00€"
+      },
+      {
+        "Loss of signature card": "10.00€"
+      }
+    ]
+  },
+  {
+    "id": "estrada-da-luz",
+    "general_info": {
+      "name": "Estrada da Luz",
+      "address": "Rua Manuel da Silva Leal",
+      "coordinates": "38.749827,-9.170943",
+      "schedule": {
+        "working_days": "07:00-24:00",
+        "weekends": "08:00-24:00|null"
+      },
+      "typology": "Surface",
+      "parkingPlaces": 98,
+      "chargingPlaces": 4,
+      "disabledPlaces": 3
+    },
+    "fees": [
+      {
+        "up to 15 minutes": "0.40€"
+      },
+      {
+        "1 hour": "1.25€"
+      },
+      {
+        "2 hours": "2.45€"
+      },
+      {
+        "3 hours": "3.75€"
+      },
+      {
+        "4 hours": "5.20€"
+      },
+      {
+        "daily maximum": "23.40€"
+      }
+    ],
+    "monthly_subscriptions": []
+  },
+  {
+    "id": "garagem-de-arroios",
+    "general_info": {
+      "name": "Garagem de Arroios",
+      "address": "R. Heróis de Quionga, 14",
+      "coordinates": "38.730990,-9.132700",
+      "schedule": null,
+      "typology": "Structure",
+      "parkingPlaces": 49,
+      "chargingPlaces": 0,
+      "disabledPlaces": 2
+    },
+    "fees": [],
+    "monthly_subscriptions": [
+      {
+        "24-hour residents": "35.00€"
+      },
+      {
+        "Motorcycles": "20.00€"
+      },
+      {
+        "Device security": "35.00€"
+      }
+    ]
+  },
+  {
+    "id": "graca",
+    "general_info": {
+      "name": "Graça",
+      "address": "Rua da Verónica",
+      "coordinates": "38.716819,-9.128867",
+      "schedule": {
+        "working_days": "00:00-24:00",
+        "weekends": "00:00-24:00"
+      },
+      "typology": "Structure",
+      "parkingPlaces": 115,
+      "chargingPlaces": 0,
+      "disabledPlaces": 4
+    },
+    "fees": [
+      {
+        "up to 15 minutes": "0.20€"
+      },
+      {
+        "1 hour": "0.80€"
+      },
+      {
+        "2 hours": "1.60€"
+      },
+      {
+        "3 hours": "2.40€"
+      },
+      {
+        "4 hours": "3.20€"
+      },
+      {
+        "daily maximum": "10.00€"
+      }
+    ],
+    "monthly_subscriptions": [
+      {
+        "Public 24h": "135€"
+      },
+      {
+        "Public 24h Daytime": "100€"
+      },
+      {
+        "24-hour residents": "35€"
+      },
+      {
+        "24-hour traders": "70€"
+      },
+      {
+        "Motorcycles 24h": "20€"
+      },
+      {
+        "Increase for booked seats": "25€"
+      }
+    ]
+  },
+  {
+    "id": "hub-criativo-do-beato",
+    "general_info": {
+      "name": "Hub Criativo do Beato",
+      "address": "Rua da Manutenção, 118",
+      "coordinates": "38.728891,-9.108046",
+      "schedule": {
+        "working_days": "00:00-24:00",
+        "weekends": "00:00-24:00"
+      },
+      "typology": "Surface",
+      "parkingPlaces": 63,
+      "chargingPlaces": 0,
+      "disabledPlaces": 3
+    },
+    "fees": [
+      {
+        "up to 15 minutes": "0.40€"
+      },
+      {
+        "1 hour": "1.20€"
+      },
+      {
+        "2 hours": "2.20€"
+      },
+      {
+        "3 hours": "3.20€"
+      },
+      {
+        "4 hours": "4.20€"
+      },
+      {
+        "daily maximum": "10.00€"
+      }
+    ],
+    "monthly_subscriptions": []
+  },
+  {
+    "id": "lidl-av-infante-dom-henrique",
+    "general_info": {
+      "name": "Lidl Av. Infante D. Henrique",
+      "address": "Avenida Infante D. Henrique, 17",
+      "coordinates": "38.757420,-9.103820",
+      "schedule": {
+        "working_days": "00:00-24:00",
+        "weekends": "00:00-24:00"
+      },
+      "typology": "Surface",
+      "parkingPlaces": 139,
+      "chargingPlaces": 2,
+      "disabledPlaces": 4
+    },
+    "fees": [
+      {
+        "up to 2 hours": "0.00€"
+      },
+      {
+        "2 hours and 15 minutes": "2.00€"
+      },
+      {
+        "2 hours and 30 minutes": "4.00€"
+      },
+      {
+        "2 hours and 45 minutes": "6.00€"
+      },
+      {
+        "3 hours": "8.00€"
+      },
+      {
+        "4 hours": "16.00€"
+      },
+      {
+        "5 hours": "24.00€"
+      },
+      {
+        "6 hours": "32.00€"
+      },
+      {
+        "7 hours": "40.00€"
+      },
+      {
+        "8 hours": "48.00€"
+      },
+      {
+        "loss of ticket": "30.00€"
+      }
+    ],
+    "monthly_subscriptions": [
+      {
+        "24h": [
+          {
+            "Public": "120.00€"
+          },
+          {
+            "Residents": "35.00€"
+          }
+        ]
+      },
+      {
+        "Night (from 19h00 to 09h00)": [
+          {
+            "Public": "80.00€"
+          },
+          {
+            "Residents": "35.00€"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lumiar",
+    "general_info": {
+      "name": "Lumiar",
+      "address": "Largo da República da Turquia",
+      "coordinates": "38.773079,-9.159321",
+      "schedule": {
+        "working_days": "08:00-23:00",
+        "weekends": "08:00-23:00"
+      },
+      "typology": "Structure",
+      "parkingPlaces": 161,
+      "chargingPlaces": 8,
+      "disabledPlaces": 3
+    },
+    "fees": [
+      {
+        "minimum": "0.20€"
+      },
+      {
+        "1 hour": "0.80€"
+      },
+      {
+        "2 hours": "1.60€"
+      },
+      {
+        "3 hours": "2.40€"
+      },
+      {
+        "4 hours": "3.20€"
+      },
+      {
+        "daily maximum": "10.00€"
+      }
+    ],
+    "monthly_subscriptions": [
+      {
+        "24h": "80.00€"
+      },
+      {
+        "24h with an Appointment": "100.00€"
+      },
+      {
+        "Daytime": "50.00€"
+      },
+      {
+        "24-hour residents": "35.00€"
+      },
+      {
+        "Motorcycles 24h": "20.00€"
+      },
+      {
+        "24-hour traders": "60.00€"
+      },
+      {
+        "Double Seat (Add to subscription price)": "50.00€"
+      },
+      {
+        "Deposit Device": "30.00€"
+      }
+    ]
+  },
+  {
+    "id": "manuel-gouveia",
+    "general_info": {
+      "name": "Manuel Gouveia",
+      "address": "Rua Manuel Gouveia",
+      "coordinates": "38.744257,-9.130995",
+      "schedule": {
+        "working_days": "00:00-24:00",
+        "weekends": "00:00-24:00"
+      },
+      "typology": "Structure",
+      "parkingPlaces": 398,
+      "chargingPlaces": 10,
+      "disabledPlaces": 5
+    },
+    "fees": [
+      {
+        "up to 15 minutes": "0.35€"
+      },
+      {
+        "1 hour": "0.50€"
+      },
+      {
+        "2 hours": "1.00€"
+      },
+      {
+        "3 hours": "1.50€"
+      },
+      {
+        "4 hours": "2.00€"
+      },
+      {
+        "daily maximum": "3.00€"
+      }
+    ],
+    "monthly_subscriptions": [
+      {
+        "Public with a pass": "10.00€"
+      },
+      {
+        "24 Hour Residents": "35.00€"
+      }
+    ]
+  },
+  {
+    "id": "parque-edp",
+    "general_info": {
+      "name": "Parque EDP",
+      "address": "Rua Dom Luís I, 9, 9A and 12",
+      "coordinates": "38.707640,-9.149260",
+      "schedule": {
+        "working_days": "07:30-01:00",
+        "weekends": "07:30-01:00"
+      },
+      "typology": "Structure",
+      "parkingPlaces": 34,
+      "chargingPlaces": 0,
+      "disabledPlaces": 0
+    },
+    "fees": [],
+    "monthly_subscriptions": [
+      {
+        "Residents": "35€"
+      }
+    ]
+  },
+  {
+    "id": "parque-mayer",
+    "general_info": {
+      "name": "Parque Mayer",
+      "address": "Parque Mayer, Av. da Liberdade",
+      "coordinates": "38.719062,-9.145547",
+      "schedule": {
+        "working_days": "00:00-24:00",
+        "weekends": "00:00-24:00"
+      },
+      "typology": "Surface",
+      "parkingPlaces": 81,
+      "chargingPlaces": 0,
+      "disabledPlaces": 4
+    },
+    "fees": [
+      {
+        "up to 15 minutes": "0.40€"
+      },
+      {
+        "1 hour": "1.25€"
+      },
+      {
+        "2 hours": "2.45€"
+      },
+      {
+        "3 hours": "3.75€"
+      },
+      {
+        "4 hours": "5.20€"
+      },
+      {
+        "daily maximum": "33.20€"
+      }
+    ],
+    "monthly_subscriptions": [
+      {
+        "24h": "127.20€"
+      },
+      {
+        "Night": "25.45€"
+      }
+    ]
+  },
+  {
+    "id": "pavilhao-da-graca",
+    "general_info": {
+      "name": "Pavilhão da Graça",
+      "address": "Rua Natália Correia, 10",
+      "coordinates": "38.720812,-9.129209",
+      "schedule": null,
+      "typology": "Surface",
+      "parkingPlaces": 27,
+      "chargingPlaces": 0,
+      "disabledPlaces": 0
+    },
+    "fees": [],
+    "monthly_subscriptions": [
+      {
+        "24-hour residents": "35.00€"
+      },
+      {
+        "24-hour traders": "35.00€"
+      },
+      {
+        "Motorcycles 24h": "20.00€"
+      }
+    ]
+  },
+  {
+    "id": "portas-do-sol",
+    "general_info": {
+      "name": "Portas do Sol",
+      "address": "Rua São Tomé, 88",
+      "coordinates": "38.712625,-9.130535",
+      "schedule": {
+        "working_days": "00:00-24:00",
+        "weekends": "00:00-24:00"
+      },
+      "typology": "Structure",
+      "parkingPlaces": 150,
+      "chargingPlaces": 0,
+      "disabledPlaces": 0
+    },
+    "fees": [],
+    "monthly_subscriptions": [
+      {
+        "24h": "135.00€"
+      },
+      {
+        "Daytime (08h00 to 20h00)": "99€"
+      },
+      {
+        "Night (20h00 to 08h00)": "40€"
+      },
+      {
+        "24-hour residents": "50€"
+      },
+      {
+        "Residents Daytime": "37€"
+      },
+      {
+        "Night Residents": "24€"
+      },
+      {
+        "24-hour traders": "110€"
+      },
+      {
+        "Day traders": "74€"
+      },
+      {
+        "Night traders": "37€"
+      }
+    ]
+  },
+  {
+    "id": "rego",
+    "general_info": {
+      "name": "Rego",
+      "address": "Rua Soeiro Pereira Gomes",
+      "coordinates": "38.744582,-9.159954",
+      "schedule": {
+        "working_days": "07:00-21:00",
+        "weekends": null
+      },
+      "typology": "Structure",
+      "parkingPlaces": 238,
+      "chargingPlaces": 0,
+      "disabledPlaces": 4
+    },
+    "fees": [
+      {
+        "up to 15 minutes": "0.40€"
+      },
+      {
+        "1 hour": "1.00€"
+      },
+      {
+        "2 hours": "2.00€"
+      },
+      {
+        "3 hours": "3.00€"
+      },
+      {
+        "4 hours": "4.00€"
+      },
+      {
+        "daily maximum": "5.00€"
+      }
+    ],
+    "monthly_subscriptions": [
+      {
+        "24h": "120€"
+      },
+      {
+        "Daytime (07h00 to 20h00)": "70€"
+      },
+      {
+        "Night (20h00 to 08h00)": "70€"
+      },
+      {
+        "24-hour residents": "80€"
+      },
+      {
+        "Residents Daytime": "50€"
+      },
+      {
+        "Night Residents": "50€"
+      },
+      {
+        "24-hour traders": "100€"
+      },
+      {
+        "Day traders": "60€"
+      },
+      {
+        "Night traders": "60€"
+      },
+      {
+        "24 Hour Motorcycles": "20€"
+      }
+    ]
+  },
+  {
+    "id": "sousa-pinto",
+    "general_info": {
+      "name": "Sousa Pinto",
+      "address": "Rua Sousa Pinto, 7",
+      "coordinates": "38.724475,-9.157032",
+      "schedule": {
+        "working_days": "00:00-24:00",
+        "weekends": "00:00-24:00"
+      },
+      "typology": "Structure",
+      "parkingPlaces": 135,
+      "chargingPlaces": 0,
+      "disabledPlaces": 3
+    },
+    "fees": [
+      {
+        "minimum": "0.40€"
+      },
+      {
+        "1 hour": "1.20€"
+      },
+      {
+        "2 hours": "2.45€"
+      },
+      {
+        "3 hours": "3.85€"
+      },
+      {
+        "4 hours": "5.25€"
+      },
+      {
+        "daily maximum": "33.25€"
+      }
+    ],
+    "monthly_subscriptions": [
+      {
+        "24h": "135.00€"
+      },
+      {
+        "Daytime (08h00 to 20h00)": "100€"
+      },
+      {
+        "Night (20h00 to 08h00)": "50.00€"
+      },
+      {
+        "24-hour residents": "35€"
+      }
+    ]
+  },
+  {
+    "id": "telheiras-nascente",
+    "general_info": {
+      "name": "Telheiras Nascente",
+      "address": "Rua Professor Eduardo Araújo Coelho, 7",
+      "coordinates": "38.761512,-9.164886",
+      "schedule": {
+        "working_days": "08:00-22:00",
+        "weekends": "08:00-22:00"
+      },
+      "typology": "Structure",
+      "parkingPlaces": 109,
+      "chargingPlaces": 0,
+      "disabledPlaces": 2
+    },
+    "fees": [
+      {
+        "minimum": "0.40€"
+      },
+      {
+        "1 hour": "1.20€"
+      },
+      {
+        "2 hours": "2.40€"
+      },
+      {
+        "3 hours": "3.60€"
+      },
+      {
+        "4 hours": "4.80€"
+      },
+      {
+        "daily maximum": "10.00€"
+      }
+    ],
+    "monthly_subscriptions": [
+      {
+        "24h": "80.00€"
+      },
+      {
+        "Daytime": "60.00€"
+      },
+      {
+        "24-hour residents": "35.00€"
+      },
+      {
+        "24-hour traders": "70.00€"
+      },
+      {
+        "Motorcycles 24h": "20.00€"
+      },
+      {
+        "VIP (extra per seat booked)": "15.00€"
+      },
+      {
+        "Park&Ride": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "telheiras-poente",
+    "general_info": {
+      "name": "Telheiras Poente",
+      "address": "Rua Professor Vieira de Almeida, 2",
+      "coordinates": "38.760566,-9.166639",
+      "schedule": {
+        "working_days": "08:00-22:00",
+        "weekends": "08:00-22:00"
+      },
+      "typology": "Structure",
+      "parkingPlaces": 158,
+      "chargingPlaces": 0,
+      "disabledPlaces": 4
+    },
+    "fees": [
+      {
+        "minimum": "0.40€"
+      },
+      {
+        "1 hour": "1.20€"
+      },
+      {
+        "2 hours": "2.40€"
+      },
+      {
+        "3 hours": "3.60€"
+      },
+      {
+        "4 hours": "4.80€"
+      },
+      {
+        "daily maximum": "10.00€"
+      }
+    ],
+    "monthly_subscriptions": [
+      {
+        "24h": "80.00€"
+      },
+      {
+        "Daytime": "60.00€"
+      },
+      {
+        "24-hour residents": "35.00€"
+      },
+      {
+        "24-hour traders": "70.00€"
+      },
+      {
+        "Motorcycles 24h": "20.00€"
+      },
+      {
+        "VIP (extra per seat booked)": "15.00€"
+      },
+      {
+        "Park&Ride": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "teixeira-de-pascoais",
+    "general_info": {
+      "name": "Teixeira de Pascoais",
+      "address": "Rua Teixeira de Pascoais",
+      "coordinates": "38.746072,-9.136525",
+      "schedule": {
+        "working_days": "00:00-24:00",
+        "weekends": "00:00-24:00"
+      },
+      "typology": "Structure",
+      "parkingPlaces": 108,
+      "chargingPlaces": 0,
+      "disabledPlaces": 2
+    },
+    "fees": [],
+    "monthly_subscriptions": [
+      {
+        "24h": "80.00€"
+      }
+    ]
+  },
+  {
+    "id": "universidade",
+    "general_info": {
+      "name": "Universidade",
+      "address": "Av. Prof. Gama Pinto",
+      "coordinates": "38.750671,-9.158464",
+      "schedule": {
+        "working_days": "07:00-24:00",
+        "weekends": "08:00-14:00|null"
+      },
+      "typology": "Surface",
+      "parkingPlaces": 225,
+      "chargingPlaces": 18,
+      "disabledPlaces": 4
+    },
+    "fees": [
+      {
+        "up to 15 minutes": "0.35€"
+      },
+      {
+        "1 hour": "1.10€"
+      },
+      {
+        "2 hours": "2.00€"
+      },
+      {
+        "3 hours": "2.35€"
+      },
+      {
+        "4 hours": "2.60€"
+      },
+      {
+        "daily maximum": "2.60€"
+      }
+    ],
+    "monthly_subscriptions": [
+      {
+        "24h": "41.75€"
+      },
+      {
+        "24h w/ Pass": "26.05€"
+      },
+      {
+        "Park&Ride": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "vila-maria-campolide",
+    "general_info": {
+      "name": "Vila Maria (Campolide)",
+      "address": "Rua Francisco Rodrigues Lobo",
+      "coordinates": "38.725041,-9.166372",
+      "schedule": {
+        "working_days": "00:00-24:00",
+        "weekends": "00:00-24:00"
+      },
+      "typology": "Surface",
+      "parkingPlaces": 68,
+      "chargingPlaces": 0,
+      "disabledPlaces": 0
+    },
+    "fees": [],
+    "monthly_subscriptions": [
+      {
+        "24-hour residents": "€35.00"
+      },
+      {
+        "Public Daytime": "€50.00"
+      }
+    ]
+  }
+]
